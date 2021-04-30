@@ -31,7 +31,7 @@
                        <muleVersion>4.3.0</muleVersion>
                        <username>vibzz001</username>
                        <password>Vibin007</password>
-                       <applicationName>mule-ci-cd-demo-prod</applicationName>
+                       <applicationName>mule-ci-cd</applicationName>
                        <environment>Sandbox</environment>
                        <workerType>MICRO</workerType>
                        <objectStoreV2>true</objectStoreV2>
